@@ -1,1 +1,523 @@
-form input:focus{border-left-color:#0c7;}form .confirmation.show,form label{display:block;}form label{margin-bottom:.5rem;}[class~=games-container]{display:flex;}form label{font-weight:bold;}form input:focus{border-bottom-color:#0c7;}form [class~=confirmation]{display:none;}form label{text-align:left;}form .confirmation.show{opacity:1;}form label{background-color:#2a2a2a;}body{font-family:"Roboto",sans-serif;}[class~=games-container]{flex-wrap:wrap;}form label{padding-left:.5rem;}[class~=games-container]{gap:1.5rem;}[class~=games-container]{justify-content:center;}form label{padding-bottom:.5rem;}form [class~=confirmation]{position:absolute;}form label{padding-right:.5rem;}body{margin-left:0;}form label{padding-top:.5rem;}form label{border-radius:.3125pc;}form [class~=confirmation]{top:-3.125pc;}[class~=games-container]{margin-left:auto;}form [class~=confirmation]{left:0;}form label{box-shadow:0 1.5pt .3125pc rgba(0,0,0,.5);}body{margin-bottom:0;}form label{font-size:1rem;}form input:focus{border-right-color:#0c7;}form input{margin-bottom:1rem;}form input,form [class~=confirmation]{padding-left:.75rem;}form input:focus{border-top-color:#0c7;}form [class~=confirmation],form input{padding-bottom:.75rem;}form input,form [class~=confirmation]{padding-right:.75rem;}[class~=games-container]{margin-bottom:2rem;}form [class~=confirmation]{right:0;}[class~=games-container]{margin-right:auto;}form input,form [class~=confirmation]{padding-top:.75rem;}body{margin-right:0;}form [class~=confirmation]{background:#0c7;}[class~=game],form input{border-left-width:.0625pc;}body{margin-top:0;}body{padding-left:0;}body{padding-bottom:0;}[class~=games-container]{margin-top:2rem;}[class~=games-container]{max-width:12.5in;}body{padding-right:0;}form [class~=confirmation]{color:#fff;}[class~=games-container],main{padding-left:2rem;}[class~=game],form input{border-bottom-width:.0625pc;}form input,[class~=game]{border-right-width:.0625pc;}form input,[class~=game]{border-top-width:.0625pc;}form .confirmation.show{top:0;}form input,[class~=game]{border-left-style:solid;}form input,[class~=game]{border-bottom-style:solid;}form [class~=confirmation][class~=hide],form [class~=confirmation]{opacity:0;}[class~=game],form input{border-right-style:solid;}body{padding-top:0;}main,[class~=games-container]{padding-bottom:2rem;}form input,[class~=game]{border-top-style:solid;}form input,[class~=game]{border-left-color:#555;}form input:focus{box-shadow:0 0 7.5pt rgba(0,204,119,.7);}[class~=games-container],main{padding-right:2rem;}body{background-color:#0d0d0d;}form input{border-bottom-color:#555;}body,form input{color:#f0f0f0;}body{line-height:1.6;}form input{border-right-color:#555;}main,[class~=games-container]{padding-top:2rem;}form input{border-top-color:#555;}[class~=game]{background:#1a1a1a;}form input{border-image:none;}form [class~=confirmation],form input{border-radius:.052083333in;}form input{background-color:#2a2a2a;}form textarea:focus{border-left-color:#0c7;}form [class~=confirmation]{text-align:center;}form input{transition:border-color .3s,box-shadow .3s;}form input,[class~=game] img{width:100%;}form [class~=confirmation][class~=hide]{top:-3.125pc;}form textarea{margin-bottom:1rem;}form textarea{padding-left:.75rem;}main{box-sizing:border-box;}form button,form textarea{padding-bottom:.75rem;}form textarea{padding-right:.75rem;}form [class~=confirmation]{transition:opacity .3s,top .3s;}section{margin-bottom:2rem;}[class~=game] img{height:auto;}form textarea,form button{padding-top:.75rem;}form textarea{border-left-width:.0625pc;}form textarea{border-bottom-width:.0625pc;}form textarea{border-right-width:.0625pc;}[class~=game] img:hover{transform:scale(1.05);}form textarea{border-top-width:.0625pc;}[class~=game] img{aspect-ratio:4/3;}form textarea{border-left-style:solid;}form textarea{border-bottom-style:solid;}[class~=game] img{object-fit:cover;}[class~=game],form textarea{border-bottom-color:#555;}section{padding-left:2rem;}form textarea{border-right-style:solid;}form textarea{border-top-style:solid;}[class~=game],form textarea{border-right-color:#555;}section{padding-bottom:2rem;}section,[class~=game] img,[class~=game]{border-radius:.104166667in;}form textarea,[class~=game]{border-top-color:#555;}form textarea{border-left-color:#555;}[class~=game] img,[class~=game]{transition:transform .3s,box-shadow .3s;}form textarea,[class~=game]{border-image:none;}section{padding-right:2rem;}form button,[class~=game]{padding-left:1.5rem;}[class~=game] h3{margin-left:0;}form textarea,form button{border-radius:.052083333in;}form textarea{background-color:#2a2a2a;}form textarea{color:#f0f0f0;}section{padding-top:2rem;}form textarea{transition:border-color .3s,box-shadow .3s;}form textarea{width:100%;}section{background:#1a1a1a;}[class~=game]{padding-bottom:1.5rem;}form textarea:focus{border-bottom-color:#0c7;}[class~=game] img:hover{box-shadow:0 5px .15625in rgba(0,204,119,.8);}form button,[class~=game]{padding-right:1.5rem;}form button{background:#0c7;}form button{color:#fff;}form button{border-left-width:medium;}[class~=game],footer{padding-top:1.5rem;}form button{border-bottom-width:medium;}form button{border-right-width:medium;}form button{border-top-width:medium;}form button{border-left-style:none;}[class~=game],footer,section{text-align:center;}[class~=game]{width:calc(20% - 1.5rem);}section{box-shadow:0 .125pc 10px rgba(0,0,0,.7);}form button{border-bottom-style:none;}[class~=game]{box-shadow:0 2.25pt .625pc rgba(0,0,0,.6);}form button{border-right-style:none;}form button{border-top-style:none;}[class~=game] h3{margin-bottom:0;}form button{border-left-color:currentColor;}form button{border-bottom-color:currentColor;}[class~=game] h3{margin-right:0;}form{display:flex;}form button{border-right-color:currentColor;}form textarea:focus{border-right-color:#0c7;}form button{border-top-color:currentColor;}form textarea:focus{border-top-color:#0c7;}form button{border-image:none;}form button{cursor:pointer;}form button{font-size:1rem;}form button{transition:background .3s,transform .2s;}form textarea:focus{box-shadow:0 0 7.5pt rgba(0,204,119,.7);}form{flex-direction:column;}form{position:relative;}form{max-width:500px;}form{margin-left:auto;}form button:hover{background:#009a59;}[class~=game] h3{margin-top:1rem;}form{margin-bottom:auto;}form{margin-right:auto;}form{margin-top:auto;}footer{background:#181818;}footer{color:#f0f0f0;}form button:hover{transform:scale(1.05);}footer{padding-left:0;}footer{padding-bottom:1.5rem;}footer{padding-right:0;}form button:active{transform:scale(.95);}footer{box-shadow:0 -2px 5px rgba(0,0,0,.7);}@media (max-width: 768px){main{padding-left:1rem;}[class~=games-container],nav ul{flex-direction:column;}main{padding-bottom:1rem;}nav ul,[class~=games-container]{align-items:center;}main{padding-right:1rem;}main{padding-top:1rem;}[class~=game]{width:90%;}section{padding-left:1.5rem;}section{padding-bottom:1.5rem;}section{padding-right:1.5rem;}nav ul li{margin-left:0;}nav ul li{margin-bottom:.75rem;}nav ul li{margin-right:0;}header h1{font-size:1.75rem;}nav ul li{margin-top:.75rem;}section{padding-top:1.5rem;}}@media (max-width: 480px){nav ul li{font-size:.9rem;}header h1{font-size:1.5rem;}[class~=game]{width:100%;}}[class~=buy-now-button]{background:#0c7;}[class~=typing-container]::after,[class~=buy-now-button]{color:#fff;}[class~=buy-now-button]{padding-left:1.5rem;}[class~=buy-now-button]{padding-bottom:.75rem;}[class~=buy-now-button]{padding-right:1.5rem;}[class~=typing-container]::after{content:"|";}[class~=buy-now-button]:hover{background:#009a59;}[class~=buy-now-button]{padding-top:.75rem;}[class~=buy-now-button]{border-left-width:medium;}[class~=buy-now-button]{border-bottom-width:medium;}[class~=buy-now-button]{border-right-width:medium;}[class~=buy-now-button]{border-top-width:medium;}[class~=buy-now-button]{border-left-style:none;}[class~=buy-now-button]:hover{transform:scale(1.05);}[class~=buy-now-button]{border-bottom-style:none;}[class~=buy-now-button]:active{transform:scale(.95);}[class~=typing-container]::after,[class~=typing-container]{display:inline-block;}[class~=buy-now-button]{border-right-style:none;}[class~=buy-now-button]{border-top-style:none;}[class~=buy-now-button]{border-left-color:currentColor;}[class~=buy-now-button]{border-bottom-color:currentColor;}[class~=buy-now-button]{border-right-color:currentColor;}[class~=buy-now-button]{border-top-color:currentColor;}[class~=typing-container]::after{animation:blink-caret .75s step-end infinite;}[class~=buy-now-button]{border-image:none;}[class~=buy-now-button]{border-radius:5px;}[class~=buy-now-button]{cursor:pointer;}[class~=buy-now-button]{transition:background .3s,transform .2s;}[class~=buy-now-button]{font-size:1rem;}[class~=typing-container]{position:relative;}[class~=typing-container]{overflow:hidden;}html{scroll-behavior:smooth;}[class~=typing-container]{white-space:nowrap;}[class~=typing-container]{font-family:"Courier New",monospace;}[class~=typing-container]::after,[class~=typing-container]{font-size:1.2rem;}@keyframes blink-caret{from,to{border-color:transparent;}50%{border-color:#fff;}}@keyframes smooth-jitter{0%{transform:translateX(0);}25%{transform:translateX(-1px);}50%{transform:translateX(1px);}75%{transform:translateX(-1px);}100%{transform:translateX(0);}}[class~=typing-smooth]::after{content:"✨";}[class~=typing-smooth]::after{font-size:1.2em;}[class~=typing-smooth]::after{animation:emoji-float 3s ease-in-out infinite;}.typing-smooth{display:inline-block;}.typing-smooth{animation:typing 6s steps(30,end),smooth-jitter 1s ease-in-out infinite;}@keyframes emoji-float{0%,100%{transform:translateY(0);}50%{transform:translateY(-10px);}}[class~=games-container]{display:flex;}[class~=game] [class~=buy-now]{display:inline-block;}body{font-family:Arial,sans-serif;}#home{background:#1b1b1b;}*,[class~=game] h3{margin-left:0;}[class~=game] img{width:100%;}[class~=games-container]{flex-wrap:wrap;}#home h2{font-size:2rem;}#home h2{color:#0c7;}[class~=game] [class~=buy-now]{background:#0c7;}[class~=games-container]{gap:1.5rem;}[class~=games-container]{justify-content:center;}[class~=game] [class~=buy-now]{color:#fff;}[class~=game] img{height:auto;}*{margin-bottom:0;}body{background:#121212;}[class~=game] [class~=buy-now]{padding-left:1.5rem;}[class~=game] [class~=buy-now]{padding-bottom:.75rem;}[class~=game] [class~=buy-now]{padding-right:1.5rem;}[class~=game] [class~=buy-now]{padding-top:.75rem;}[class~=game] img{aspect-ratio:4/3;}#home p,#home h2{margin-bottom:1rem;}[class~=game] [class~=buy-now]{border-left-width:medium;}[class~=game] [class~=buy-now]{border-bottom-width:medium;}[class~=games-container]{margin-left:auto;}[class~=games-container]{margin-bottom:2rem;}[class~=games-container]{margin-right:auto;}[class~=game] [class~=buy-now]{border-right-width:medium;}#home h2{font-weight:bold;}body{color:#e0e0e0;}[class~=games-container]{margin-top:2rem;}[class~=games-container]{max-width:12.5in;}#home p{font-size:1.1rem;}#home p{line-height:1.6;}[class~=game] img{object-fit:cover;}#home,[class~=games-container]{padding-left:2rem;}[class~=game] h3,*{margin-right:0;}#home,[class~=game] img{border-radius:10px;}[class~=game] h3,#home{color:#f0f0f0;}[class~=games-container]{padding-bottom:2rem;}[class~=game] img{transition:transform .3s,box-shadow .3s;}[class~=games-container],#home{padding-right:2rem;}[class~=games-container]{padding-top:2rem;}[class~=game] [class~=buy-now]{border-top-width:medium;}[class~=game]{background:#1a1a1a;}[class~=game]{border-left-width:.0625pc;}[class~=game] h3{margin-bottom:1rem;}[class~=game]{border-bottom-width:.0625pc;}[class~=game]{border-right-width:.0625pc;}[class~=game] [class~=buy-now]{border-left-style:none;}#home{padding-bottom:3rem;}[class~=game]{border-top-width:.0625pc;}[class~=game]{border-left-style:solid;}[class~=game]{border-bottom-style:solid;}[class~=game] [class~=buy-now]{border-bottom-style:none;}[class~=game]{border-right-style:solid;}[class~=game]{border-top-style:solid;}[class~=game]{border-left-color:#555;}[class~=game]{border-bottom-color:#555;}[class~=game] [class~=buy-now]{border-right-style:none;}[class~=game] h3{margin-top:1rem;}#home::before{content:"";}[class~=game] [class~=buy-now]{border-top-style:none;}#home::before{position:absolute;}[class~=game]{border-right-color:#555;}[class~=game]{border-top-color:#555;}[class~=game] [class~=buy-now]{border-left-color:currentColor;}[class~=game] [class~=buy-now]{border-bottom-color:currentColor;}[class~=game] [class~=buy-now]{border-right-color:currentColor;}*{margin-top:0;}[class~=game] [class~=buy-now]{border-top-color:currentColor;}*{padding-left:0;}#home{padding-top:3rem;}[class~=game] h3{font-size:1.2rem;}[class~=game] [class~=buy-now],[class~=game]{border-image:none;}#home::before{top:0;}[class~=game] [class~=buy-now]{border-radius:.3125pc;}*{padding-bottom:0;}#home::before{left:0;}[class~=game]{border-radius:7.5pt;}[class~=game]{padding-left:1.5rem;}#home{box-shadow:0 .041666667in 6pt rgba(0,0,0,.5);}[class~=game] [class~=buy-now]{cursor:pointer;}[class~=game]{padding-bottom:1.5rem;}[class~=game]{padding-right:1.5rem;}[class~=game] [class~=buy-now]{transition:background .3s,transform .2s;}[class~=game] img,#home::before{width:100%;}[class~=game]{padding-top:1.5rem;}[class~=game]{text-align:center;}[class~=game] [class~=buy-now]:hover,[class~=game] [class~=buy-now]:hover{background:#009a59;}[class~=game]{width:calc(25% - 1.5rem);}[class~=game]{box-shadow:0 .1875pc .625pc rgba(0,0,0,.6);}[class~=game]{transition:transform .3s,box-shadow .3s;}[class~=games-container]{display:flex;}[class~=game] [class~=buy-now]{font-size:1rem;}[class~=games-container]{flex-wrap:wrap;}[class~=game] img{height:auto;}[class~=game] [class~=buy-now]{text-decoration:none;}[class~=game] [class~=buy-now]{display:inline-block;}[class~=games-container]{gap:1rem;}[class~=games-container]{justify-content:center;}[class~=game] [class~=buy-now]{background:#0c7;}[class~=games-container],[class~=game] [class~=buy-now],[class~=game]{padding-left:1rem;}[class~=game] [class~=buy-now]:hover{transform:scale(1.05);}[class~=game] [class~=buy-now]{color:#fff;}[class~=game],[class~=games-container]{padding-bottom:1rem;}[class~=game] img{aspect-ratio:4/3;}[class~=game] [class~=buy-now]:active{transform:scale(.95);}[class~=game] [class~=buy-now]{padding-bottom:.5rem;}[class~=game] [class~=buy-now],[class~=games-container],[class~=game]{padding-right:1rem;}[class~=games-container],[class~=game]{padding-top:1rem;}[class~=game]{background:#1a1a1a;}[class~=game]{border-left-width:.0625pc;}[class~=game] [class~=buy-now]{padding-top:.5rem;}[class~=game]{border-bottom-width:.0625pc;}[class~=game] [class~=buy-now]{border-left-width:medium;}[class~=game]{border-right-width:.0625pc;}[class~=game] [class~=buy-now]:hover{transform:scale(1.05);}[class~=game] [class~=buy-now]{border-bottom-width:medium;}[class~=game] img{object-fit:cover;}[class~=game]{border-top-width:.0625pc;}#home::before{height:100%;}[class~=game] [class~=buy-now]{border-right-width:medium;}[class~=game]{border-left-style:solid;}[class~=game] [class~=buy-now]{border-top-width:medium;}[class~=game]{border-bottom-style:solid;}#home::before{background:linear-gradient(135deg,rgba(0,0,0,.5),rgba(0,0,0,.2));}[class~=game] [class~=buy-now]:active{transform:scale(.95);}[class~=game]{border-right-style:solid;}[class~=game]{border-top-style:solid;}[class~=game] [class~=buy-now]{border-left-style:none;}[class~=game]{border-left-color:#555;}#home::before,[class~=game],[class~=game] img{border-radius:.104166667in;}[class~=game]{border-bottom-color:#555;}[class~=game]{border-right-color:#555;}[class~=game]{border-top-color:#555;}[class~=game]{border-image:none;}#home::before{z-index:-1;}[class~=game] [class~=buy-now]{border-bottom-style:none;}[class~=game] [class~=buy-now]{border-right-style:none;}[class~=game] [class~=buy-now]{border-top-style:none;}[class~=game],#home{text-align:center;}[class~=game] img,[class~=game]{transition:transform .3s,box-shadow .3s;}[class~=game]{width:calc(50% - 1rem);}#home{margin-left:auto;}[class~=game] [class~=buy-now]{border-left-color:currentColor;}.game h3{margin-left:0;}[class~=game] [class~=buy-now]{border-bottom-color:currentColor;}[class~=game]{box-shadow:0 3px 10px rgba(0,0,0,.6);}.game h3{margin-bottom:.75rem;}[class~=game] [class~=buy-now]{border-right-color:currentColor;}[class~=game] [class~=buy-now]{border-top-color:currentColor;}[class~=game] [class~=buy-now]{border-image:none;}[class~=game] [class~=buy-now]{border-radius:3.75pt;}*{padding-right:0;}*{padding-top:0;}*{box-sizing:border-box;}[class~=game] [class~=buy-now]{cursor:pointer;}#home{margin-bottom:2rem;}.game h3{margin-right:0;}.game h3{margin-top:.75rem;}.game h3{font-size:1rem;}[class~=game] [class~=buy-now]{transition:background .3s,transform .2s;}#home{margin-right:auto;}[class~=game] [class~=buy-now]{font-size:.9rem;}[class~=game] [class~=buy-now]{text-decoration:none;}#home{margin-top:2rem;}#home{max-width:8.333333333in;}.game h3{color:#f0f0f0;}@media (min-width: 768px){[class~=game]{width:calc(33.33% - 1rem);}}@media (min-width: 992px){[class~=game]{width:calc(25% - 1rem);}}
+* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #e0e0e0;
+}
+
+/* Notification (Replaced with Note) */
+.note {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #f9ed69;
+    color: #333;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: none; /* Start hidden */
+    font-size: 16px;
+}
+
+/* Display note */
+.note.show {
+    display: block; /* Show the note */
+}
+
+/* Hides note */
+.note.hidden {
+    display: none;
+}
+
+
+/* Main Content Padding to Prevent Overlap with Fixed Navbar */
+main {
+    padding: 2rem;
+    padding-top: calc(3rem + 80px); /* Adjust for header height */
+    box-sizing: border-box;
+}
+
+section {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background: #1a1a1a;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+/* Form Styles */
+form {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width: 500px;
+    margin: auto;
+}
+
+form label {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    text-align: left;
+    display: block;
+    background-color: #2a2a2a;
+    padding: 0.5rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    font-size: 1rem;
+}
+
+form input, form textarea {
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    border: 1px solid #555;
+    border-radius: 5px;
+    background-color: #2a2a2a;
+    color: #f0f0f0;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    width: 100%;
+}
+
+form input:focus, form textarea:focus {
+    border-color: #00cc77;
+    box-shadow: 0 0 10px rgba(0, 204, 119, 0.7);
+}
+
+form button {
+    padding: 0.75rem 1.5rem;
+    background: #00cc77;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.3s, transform 0.2s;
+}
+
+form button:hover {
+    background: #009a59;
+    transform: scale(1.05);
+}
+
+form button:active {
+    transform: scale(0.95);
+}
+
+form .confirmation {
+    display: none;
+    position: absolute;
+    top: -50px;
+    left: 0;
+    right: 0;
+    background: #00cc77;
+    color: #fff;
+    padding: 0.75rem;
+    border-radius: 5px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s, top 0.3s;
+}
+
+form .confirmation.show {
+    display: block;
+    opacity: 1;
+    top: 0;
+}
+
+form .confirmation.hide {
+    opacity: 0;
+    top: -50px;
+}
+
+
+.games-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.game-item {
+    width: 200px;
+    margin: 10px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.game {
+    background: #1a1a1a;
+    border: 1px solid #555;
+    border-radius: 10px;
+    padding: 1.5rem;
+    text-align: center;
+    width: calc(20% - 1.5rem); /* Adjusted to make sure it fits within the layout */
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.6);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.game-item img {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.game h3 {
+    margin: 1rem 0 0;
+}
+
+.game-item:hover {
+    transform: scale(1.05);
+}
+
+.game img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 5px 15px rgba(0, 204, 119, 0.8);
+}
+
+/* Footer Styles */
+footer {
+    background: #181818;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 1.5rem 0;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.7);
+}
+
+/* Media Queries for Responsive Design */
+
+/* For tablets and mobile devices */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 0.75rem 0;
+    }
+    
+    .games-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .game {
+        width: 90%;
+    }
+    
+    header h1 {
+        font-size: 1.75rem;
+    }
+    
+    main {
+        padding: 1rem;
+    }
+    
+    section {
+        padding: 1.5rem;
+    }
+}
+
+/* For very small mobile devices */
+@media (max-width: 480px) {
+    nav ul li {
+        font-size: 0.9rem;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .game {
+        width: 100%;
+    }
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Ensure other parts of the design remain consistent */
+.buy-now-button {
+    background: #00cc77;
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    font-size: 1rem;
+    margin: 0.5rem; /* Add spacing around the button */
+}
+
+/* Hover and active effects */
+.buy-now-button:hover {
+    background: #009a59;
+    transform: scale(1.05);
+}
+
+.buy-now-button:active {
+    transform: scale(0.95);
+}
+
+/* Buy Now Button Review */
+.youtube {
+    background-color: #00cc77; /* Bright green background */
+    color: #ffffff; /* White text for contrast */
+    padding: 0.75rem 1.0rem; /* Adjust padding for better spacing */
+    border: none; /* Remove border for a clean look */
+    border-radius: 5px; /* Rounded corners for a modern appearance */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transitions for background color and scaling */
+    font-size: 1rem; /* Font size for readability */
+    text-align: center; /* Center text alignment */
+    display: inline-block; /* Ensure it fits content and is block-level */
+    margin: 0.5rem; /* Add spacing around the button */
+}
+
+/* Hover Effect */
+.youtube:hover {
+    background-color: #009a59; /* Slightly darker green on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+/* Active Effect */
+.youtube:active {
+    transform: scale(0.95); /* Slightly shrink on click */
+}
+
+
+
+.typing-container {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: 'Courier New', monospace;
+    font-size: 1.2rem;
+}
+
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #fff; }
+}
+
+
+/* Smooth Jitter Effect */
+@keyframes smooth-jitter {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-1px); }
+    50% { transform: translateX(1px); }
+    75% { transform: translateX(-1px); }
+    100% { transform: translateX(0); }
+}
+
+.typing-smooth {
+    display: inline-block; /* Ensure inline-block for jitter effect */
+    animation: typing 6s steps(30, end), smooth-jitter 1s ease-in-out infinite;
+}
+
+/* Emoji Effect */
+.typing-smooth::after {
+    content: '✨'; /* Example emoji */
+    font-size: 1.2em;
+    animation: emoji-float 3s ease-in-out infinite;
+}
+
+@keyframes emoji-float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+/* Section Styles */
+#home {
+    background: #1b1b1b; /* Dark background for contrast */
+    color: #f0f0f0;
+    padding: 3rem 2rem; /* Spacious padding for content */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+    text-align: center; /* Center align text */
+    margin: 2rem auto; /* Margin for spacing */
+    max-width: 800px; /* Maximum width for better readability */
+}
+
+#home h2 {
+    font-size: 2rem;
+    color: #00cc77; /* Accent color for heading */
+    margin-bottom: 1rem; /* Spacing below heading */
+    font-weight: bold;
+}
+
+#home p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem; /* Spacing between paragraphs */
+}
+
+/* Add a gradient background and some modern touches */
+#home::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2));
+    z-index: -1; /* Place behind the content */
+    border-radius: 10px;
+}
+
+/* Modpack Section */
+.games-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    margin: 2rem auto;
+    max-width: 1200px;
+    padding: 2rem;
+}
+
+.game {
+    background: #1a1a1a;
+    border: 1px solid #555;
+    border-radius: 10px;
+    padding: 1.5rem;
+    text-align: center;
+    width: calc(25% - 1.5rem); /* Adjust width based on number of items per row */
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.6);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.game img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4/3; /* Adjusted aspect ratio for a larger image */
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.game h3 {
+    margin: 1rem 0;
+    font-size: 1.2rem;
+    color: #f0f0f0;
+}
+
+.game .buy-now {
+    display: inline-block;
+    background: #00cc77; /* Bright green background */
+    color: #fff; /* White text */
+    padding: 0.75rem 1.5rem; /* Adequate padding for button */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background 0.3s, transform 0.2s; /* Smooth transitions for background and scaling */
+    font-size: 1rem; /* Adjust font size if needed */
+    text-decoration: none; /* Remove underline from link */
+}
+
+.game .buy-now:hover {
+    background: #009a59; /* Slightly darker green on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.game .buy-now:active {
+    transform: scale(0.95); /* Slightly shrink on click */
+}
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #e0e0e0;
+}
+
+.games-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.game-item {
+    width: 200px;
+    margin: 10px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.game-item img {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.game-item:hover img {
+    transform: scale(1.1);
+}
+
+/* Optional: Adding a box-shadow effect for more emphasis */
+.game-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+.game h3 {
+    margin: 0.75rem 0;
+    font-size: 1rem;
+    color: #f0f0f0;
+}
+
+.game .buy-now {
+    display: inline-block;
+    background: #00cc77; /* Bright green background */
+    color: #fff; /* White text */
+    padding: 0.5rem 1rem; /* Adequate padding for button */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background 0.3s, transform 0.2s; /* Smooth transitions for background and scaling */
+    font-size: 0.9rem; /* Adjust font size if needed */
+    text-decoration: none; /* Remove underline from link */
+}
+
+.game .buy-now:hover {
+    background: #009a59; /* Slightly darker green on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.game .buy-now:active {
+    transform: scale(0.95); /* Slightly shrink on click */
+}
+
+/* Responsive adjustments */
+@media (min-width: 768px) {
+    .game {
+        width: calc(33.33% - 1rem); /* Three items per row on medium screens */
+    }
+}
+
+@media (min-width: 992px) {
+    .game {
+        width: calc(25% - 1rem); /* Four items per row on large screens */
+    }
+}
+
